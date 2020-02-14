@@ -4,6 +4,7 @@ add = float(a)+float(b)
 sub = float(a)-float(b)
 mul = float(a)*float(b)
 div = a/b
+
 print(f"Addition: {add}")
 print(f"Subtraction: {sub}")
 print(f"Multiplication: {mul}")
