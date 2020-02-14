@@ -1,5 +1,6 @@
 num = int(input("Enter the number: "))
 fact = 1
+
 if num < 0:
     print("No Factorial for Negative numbers")
 elif num == 0:
